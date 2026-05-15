@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "HUNTERSMPSEASON2RDX7.aternos.me",
+    "port": 11202,
     "version": "1.20.1",
     "try-creative": false
   },
